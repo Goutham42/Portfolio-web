@@ -21,7 +21,7 @@ const Social = () => {
             <a href="https://www.linkedin.com/in/gouthamthanigaivel" target="_blank" rel="noreferrer">
               🔗 LinkedIn
             </a>
-            <a href="tel:+911234567890">📞 +91 12345 67890</a>
+            <a href="tel:+911234567890">📞 +91 9499945579</a>
           </div>
         </div>
       )}

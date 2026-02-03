@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import { motion } from "framer-motion";
 import "./Navbar.css";
 
-const sections = ["home", "about", "skills", "projects"];
+const sections = ["home", "about", "skills", "project"];
 
 const Navbar = () => {
   const [active, setActive] = useState("home");

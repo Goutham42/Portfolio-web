@@ -22,7 +22,7 @@ useEffect(() => {
 
 
   return (
-    <section className="hero-container">
+    <section id='home'  className="hero-container">
       <div className="hero-content">
 
         {/* LEFT: Text */}
