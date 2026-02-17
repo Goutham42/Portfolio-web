@@ -5,7 +5,7 @@ import cafeteriaImg from "../assets/cafe.jpg";
 import RestaurantImg from "../assets/restaurant.jpg";
 import PwaImg from "../assets/pwa.jpg";
 import GamingImg from "../assets/gaming.jpg";
-import aiImg from "../assets/ai.jpg"
+import ai
 
 const Projects = () => {
   const projects = [

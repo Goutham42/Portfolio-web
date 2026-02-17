@@ -5,14 +5,13 @@ import cafeteriaImg from "../assets/cafe.jpg";
 import RestaurantImg from "../assets/restaurant.jpg";
 import PwaImg from "../assets/pwa.jpg";
 import GamingImg from "../assets/gaming.jpg";
-import aiImg from "../assets/ai.jpg"
 
 const Projects = () => {
   const projects = [
     {
       title: "AI-Resume Analyzer",
-      description: "AI Resume Analyzer is an intelligent tool that scans and evaluates resumes to highlight strengths, detect missing sections, and suggest improvements.",
-      image: aiImg,
+      description: "Modern, responsive restaurant website with premium UI, smooth animations, and strong brand-focused design.",
+      image: cafeteriaImg,
       link: "https://ai-resume-analyzer-en9rpc1gg-gouthams-projects-6b3f110f.vercel.app/",
     },
     {
